@@ -1,2 +1,7 @@
 this is a file!!
+<<<<<<< HEAD
 conflict in this line hhhhh
+=======
+merge conflict
+trying
+>>>>>>> 05368d9... changed
